@@ -1,8 +1,8 @@
-pytest
-sphinx
-ipykernel
-requests
-pandas
-pyarrow
-fastparquet
-scikit-learn
+pytest >= 8.2.1
+sphinx >= 7.3.7
+ipykernel >= 6.29.4
+requests >= 2.32.2
+pandas >= 2.2.2
+pyarrow >= 16.1.0
+fastparquet >= 2024.5.0
+scikit-learn >= 1.5.0
