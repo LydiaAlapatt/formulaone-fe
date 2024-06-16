@@ -8,3 +8,4 @@ fastparquet >= 2024.5.0
 scikit-learn >= 1.5.0
 boto3 >= 1.34.123
 python-dotenv >= 1.0.1
+tabulate >= 0.9.0

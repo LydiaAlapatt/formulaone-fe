@@ -12,3 +12,4 @@ Contents:
    
    usage
    API
+   generated/database

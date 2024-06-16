@@ -12,7 +12,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='formulaone',
+    name='formulaone-fe',
     version='0.1.0',
     description='Downloads and prepares formula one data',
     long_description=readme,
